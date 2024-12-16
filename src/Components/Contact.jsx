@@ -81,7 +81,7 @@ const Contact = () => {
                         id='name'
                         autoComplete='name'
                         required
-                        placeholder='vikas choudhary'
+                        placeholder='Enter your name'
                         />
                     </div>
 
@@ -99,7 +99,7 @@ const Contact = () => {
                         id='email'
                         autoComplete='email'
                         required
-                        placeholder='vikas@example.com'
+                        placeholder='xyz@example.com'
                         />
                     </div>
                 </div>

@@ -108,12 +108,7 @@ const Footer = () => {
                 href=""
                 className=''
                 >
-                    <img 
-                    src="/images/logo.svg" 
-                    width={40}
-                    height={40}
-                    alt="Logo" 
-                    />
+                    <h3  className='headline-2 lg:max-w-[12ch]'>Vikas.</h3>
                 </a>
 
                 <p className="text-zinc-500 text-sm">

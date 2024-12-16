@@ -9,7 +9,8 @@ function Header() {
         items-center md:px-6 md:grid md:grid-cols-[1fr,3fr,1fr]" >
             <h1>
                 <a href="/" className='logo'>
-                <img src="/images/logo.svg" width={40} height={40} alt="vikas" />
+                {/* <img src="/images/logo.svg" width={40} height={40} alt="vikas" /> */}
+                <h3 className='headline-3 lg:max-w-[12ch]'>Vikas.</h3>
                 </a>
             </h1>
 

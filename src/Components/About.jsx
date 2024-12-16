@@ -32,14 +32,6 @@ function About() {
                             <p className='text-sm text-zinc-400'>{label}</p>
                         </div>
                     ))}
-
-                    <img 
-                    src="/images/logo.svg" 
-                    alt="Logo" 
-                    width={30}
-                    height={30}
-                    className='ml-auto md:w-[40px] md:h-[40px]'
-                    />
                 </div>
             </div>
         </div>
